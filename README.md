@@ -16,6 +16,7 @@
 	
 ## Setup
 * Copy web app files into the same directory
+* Check requirements.txt and install neccesary modules
 * Obtain email, email password, and secret key(any random sequence of characters)
 * Add these strings to the gamingblog/config.py file
 * Save all changes

@@ -6,7 +6,7 @@
 
 ## General info
 * This project is a video game blog where users can create accounts and make their own posts. 
-* This web app has all the functionalty of a real blog, including account updates, post edits, login features, and more.
+* This web app has all the functionalty of a real blog, including account updates, post edits, login features (additional features in progress).
 	
 ## Tools
 * The web app is created using the flask framework and python.
